@@ -1,11 +1,11 @@
-# FlaSh-Blog
-개인 블로그
+# React Boilerplate
 
 ## 사용된 기술
 * React
 * Typescript
 * Emotion js
-* React Query
+* husky
+* material UI
 
 ## 디렉토리 구조
 
