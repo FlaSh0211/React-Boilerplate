@@ -1,20 +1,23 @@
-# React-Boilerplate
-react boilderplate
+# FlaSh-Blog
+개인 블로그
 
-commit rules
-*feat
-  *새로운 기능
-*fix
-  *버그 수정
-*refactor
-  *리팩토링
-*file
-  *파일, 문서등 추가
-*style
-  *uiux css 수정
+## 사용된 기술
+* React
+* Typescript
+* Emotion js
+* React Query
 
-etc
-*typescript
-*scss
-*prettier
-*path alias
+## 디렉토리 구조
+
+### src /
+* components
+  * 공통 컴포넌트
+* lib
+  * 공통 유틸 함수
+* pages
+  * 페이지
+    * index / Main / Component로 구성
+* styles
+  * 공통 스타일
+* types
+  * 공통 interface
